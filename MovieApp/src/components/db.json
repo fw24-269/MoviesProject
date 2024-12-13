@@ -1,0 +1,35 @@
+{
+    "movies": [
+      {
+        "title": "Inception",
+        "description": "A mind-bending thriller where a thief enters the subconscious of his targets.",
+        "releaseYear": 2010,
+        "watched": true
+      },
+      {
+        "title": "The Matrix",
+        "description": "A computer hacker learns that reality as he knows it is a simulation controlled by machines.",
+        "releaseYear": 1999,
+        "watched": true
+      },
+      {
+        "title": "The Dark Knight",
+        "description": "Batman faces his greatest foe, the Joker, who plans to plunge Gotham City into chaos.",
+        "releaseYear": 2008,
+        "watched": true
+      },
+      {
+        "title": "Interstellar",
+        "description": "A group of explorers travel through a wormhole in search of a new home for humanity.",
+        "releaseYear": 2014,
+        "watched": false
+      },
+      {
+        "title": "The Lion King",
+        "description": "A young lion prince flees his kingdom only to learn the true meaning of responsibility.",
+        "releaseYear": 1994,
+        "watched": true
+      }
+    ]
+  }
+  
