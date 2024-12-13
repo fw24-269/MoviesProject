@@ -33,7 +33,7 @@ function Display() {
                     <p>Description:<span>{movie.description}</span></p>
                     <p>Year:<span>{movie.year}</span></p>
                     <p>{movie.watched}</p>
-                    <button onClick={() => handleDelete(movie.id)}>Delete</button>
+                    <button className='delete' onClick={() => handleDelete(movie.id)}>Delete</button>
                 </div>
             ))}
             </div>

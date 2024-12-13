@@ -11,7 +11,13 @@
   border-radius: 8px;
 }
 
-
+.delete {
+  padding: 10px 20px;
+  background-color: red;
+  border-radius: 8px;
+  color: white;
+  border: none;
+}
 .add {
   display: flex;
   flex-direction: column;
